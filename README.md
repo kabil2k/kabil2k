@@ -8,7 +8,7 @@ Software Engineer @ hephzibah technology
 - 🤔 I’m looking for help who can change the world with techie
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-  [![LinkedIn] ("https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://linkedin.com/in/kabil-j-a62163190)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kabil-j-a62163190)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know   calisthenics- !
 
