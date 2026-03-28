@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/kabil-j-a62163190"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:jkabi2k@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://portfolio.kabilj.dev"><img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+  <a href="https://kabil-portfolio-fullstack.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=black"/></a>
   <img src="https://komarev.com/ghpvc/?username=kabil2k&style=for-the-badge&color=7b2fff" alt="profile views"/>
 </p>
 
@@ -21,7 +21,7 @@ var kabil = new Developer
     Location    = "Chennai, India",
     Experience  = "2 years building production enterprise systems",
     CurrentWork = new[] { "MFT Platform", "Release Management Tool" },
-    Learning    = "DSA · System Design ",
+    Learning    = "DSA · System Design",
     FunFact     = "I do calisthenics and obsess over query optimization"
 };
 ```
